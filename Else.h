@@ -8,5 +8,5 @@ public:
     Else(QString, QString, QString, QString, QString, QString);
     void saveInfo(QString) override;
     QString getremark();
-
+//其他类
 };
