@@ -12,5 +12,5 @@ public:
     QString getschool();
     QString getgrade()；
     QString getmajor();
-    //基类
+    //同学类
 };
