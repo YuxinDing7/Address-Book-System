@@ -19,6 +19,7 @@ public:
     QString getmail();
     QString getbirth();
     QString getsendBirth();
+//基类
 };
 
 void createinfo(QString,Contact& ct);  //涉及多态的实现
