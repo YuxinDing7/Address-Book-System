@@ -1,5 +1,5 @@
 #include "Contact.h"
-
+//基类方法的定义
 Contact::Contact(QString name, QString phone, QString email, QString birthday, QString sendBirth)
 {
     this->name = name;
