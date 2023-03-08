@@ -7,6 +7,7 @@
 #include "relativemodify.h"
 #include "elsemodify.h"
 #include "familiarmodify.h"
+//智能搜索实现
 AiSearch::AiSearch(QString username, QString infoToSearch, QWidget *parent) :
     QWidget(parent),
     ui(new Ui::AiSearch)
