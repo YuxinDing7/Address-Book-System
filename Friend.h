@@ -10,4 +10,5 @@ public:
     void saveInfo(QString) override;
     QString gettime();
     QString getway();
+//朋友类
 };
