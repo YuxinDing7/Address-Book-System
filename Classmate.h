@@ -10,6 +10,7 @@ public:
     Classmate(QString, QString, QString, QString, QString, QString, QString, QString);
     void saveInfo(QString) override;
     QString getschool();
-    QString getgrade();
+    QString getgrade()；
     QString getmajor();
+    //基类
 };
