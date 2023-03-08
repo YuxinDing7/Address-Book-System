@@ -7,6 +7,7 @@
 #include "elsemodify.h"
 #include "mainwindow.h"
 #include "familiarmodify.h"
+//生日搜索实现
 BirthSearch::BirthSearch(QString username, QWidget *parent) :
     QWidget(parent),
     ui(new Ui::BirthSearch)
