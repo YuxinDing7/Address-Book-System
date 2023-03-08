@@ -13,6 +13,7 @@
 #include "mainwindowinalphabet.h"
 #include <QTableWidget>
 #include "familiarmodify.h"
+
 MainWindowInAddTime::MainWindowInAddTime(QString username, QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindowInAddTime)
