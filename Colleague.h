@@ -8,5 +8,5 @@ public:
     Colleague(QString, QString, QString, QString, QString, QString);
     void saveInfo(QString) override;
     QString getcompany();
-
+//同事类
 };
